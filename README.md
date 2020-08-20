@@ -11,6 +11,9 @@
 </a>
 </br>
 
+
+
+
 ### Resumo
 
 Olá, me chamo Lucas 🇧🇷.
@@ -18,6 +21,9 @@ Sou desenvolvedor Web, estudante de **sistemas para internet**💚, **20 anos** 
 Com experiência na área de **designer gráfico** 🕶✍, utilizo várias técnicas para desenvolvimento!💻💡
 
  * Completamente apaixonado em programação, procurar soluções e resolver problemas.!💞
+ 
+ 
+ 
 
 ### Tecnologias e Linguagens  
 
