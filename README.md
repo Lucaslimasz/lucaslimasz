@@ -17,7 +17,7 @@
 ### Resumo
 
 Olá, me chamo Lucas 🇧🇷.
-Sou desenvolvedor Web, estudante de **sistemas para internet**💚, **20 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
+Sou desenvolvedor Web, estudante de **sistemas para internet**💚, **21 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
 Com experiência na área de **designer gráfico** 🕶✍, utilizo várias técnicas para desenvolvimento!💻💡
 
  * Completamente apaixonado em programação, procurar soluções e resolver problemas.!💞
