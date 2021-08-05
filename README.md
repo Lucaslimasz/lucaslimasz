@@ -16,8 +16,8 @@
 
 ### Resumo
 
-Olá, me chamo Lucas 🇧🇷.
-Sou desenvolvedor Web, estudante de **sistemas para internet**💚, **21 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
+Olá, sou o Lucas 🇧🇷.
+Sou desenvolvedor front-end, graduado em **sistemas para internet**💚, **21 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
 Com experiência na área de **designer gráfico** 🕶✍, entrei na área de desenvolvimento trazendo uma boa carga para aplicar no meu dia a dia!💻💡
 
  * Completamente apaixonado em programação, procurar soluções e resolver problemas.!💞
@@ -28,8 +28,7 @@ Com experiência na área de **designer gráfico** 🕶✍, entrei na área de d
 ### Tecnologias e Linguagens  
 
 * Javascript
-* Nodejs
-* Reactjs
+* ReactJs
+* NextJs
+* React-Native
 * Express
-* PHP
-* Laravel 
