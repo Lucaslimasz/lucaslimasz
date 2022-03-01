@@ -17,7 +17,7 @@
 ### Resumo
 
 Olá, sou o Lucas 🇧🇷.
-Sou desenvolvedor front-end, graduado em **sistemas para internet**💚, **21 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
+Sou desenvolvedor front-end, graduado em **sistemas para internet**💚, **22 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
 Com experiência na área de **designer gráfico** 🕶✍, entrei na área de desenvolvimento trazendo uma boa carga para aplicar no meu dia a dia!💻💡
 
  * Completamente apaixonado em programação, procurar soluções e resolver problemas.!💞
