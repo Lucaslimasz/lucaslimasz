@@ -17,18 +17,20 @@
 ### Resumo
 
 Olá, sou o Lucas 🇧🇷.
-Sou desenvolvedor front-end, graduado em **sistemas para internet**💚, **22 anos** 👶🏻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
-Com experiência na área de **designer gráfico** 🕶✍, entrei na área de desenvolvimento trazendo uma boa carga para aplicar no meu dia a dia!💻💡
+Sou desenvolvedor front-end, graduado em **sistemas para internet**💚, **23 anos** 👨‍💻, estou me aventurando em uma profissão que se tornou um sonho 😍. 
 
- * Completamente apaixonado em programação, procurar soluções e resolver problemas.!💞
- 
- 
- 
+Atuo como desenvolvedor frontend mobile na IBM, utilizando React Native e um pouco de SwiftUI nos projetos do Banco do Brasil. Atuo no app central do banco, especificamente no bundle de Investimentos. Sou responsável por implementar novas features e trazer melhorias para o app.
+Possuo experiência com Reactjs, Nextjs, Typescript, Javascript, Tailwind, Firebase entre outras tecnologias. 
+Além disso, possuo expertise em design gráfico e uma sólida compreensão dos princípios de design, tipografia, paleta de cores e layout. Minha experiência inclui o uso de ferramentas de design como Adobe Photoshop, Figma e Corel Draw, permitindo-me trazer melhorias para uma entrega de qualidade.
+Estou sempre em busca de aprimoramento contínuo, mantendo-me atualizado com as últimas tendências e tecnologias. Tenho uma paixão por aprender e adquirir novas habilidades, o que me permite enfrentar desafios com entusiasmo e adaptabilidade.
+
+O aprendizado é contínuo e sempre haverá um próximo nível.
 
 ### Tecnologias e Linguagens  
 
 * Javascript
+* Typescript
 * ReactJs
 * NextJs
 * React-Native
-* Express
+* Nodejs
