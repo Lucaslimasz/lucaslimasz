@@ -41,8 +41,8 @@ Estou sempre em busca de aprimoramento contínuo, mantendo-me atualizado com as 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasz&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslimasz&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasz&custom_title=&layout=compact&bg_color=fff&text_color=000&hide_border=true&langs_count=8) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslimasz&theme=transparent&show_icons=true&text_color=000&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
 </div>
 <div align='center'>
@@ -64,11 +64,11 @@ Estou sempre em busca de aprimoramento contínuo, mantendo-me atualizado com as 
 ## Principais Repositórios
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=IA-food-photo&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/IA-food-photo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=readgenerator-web&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/readgenerator-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=IA-food-photo&bg_color=fff&text_color=000&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/IA-food-photo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=readgenerator-web&bg_color=fff&text_color=000&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/readgenerator-web)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=juniando&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/juniando)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=ignite-dtmoney&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/ignite-dtmoney)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=juniando&bg_color=fff&text_color=000&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/juniando)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslimasz&repo=ignite-dtmoney&bg_color=fff&text_color=000&hide_border=false&card_width=100)](https://github.com/Lucaslimasz/ignite-dtmoney)
 
 
 </div>
