@@ -41,7 +41,7 @@ Estou sempre em busca de aprimoramento contínuo, mantendo-me atualizado com as 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasz&custom_title=&layout=compact&bg_color=fff&text_color=000000&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasz&custom_title=&layout=compact&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslimasz&theme=transparent&show_icons=true&text_color=000000&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100)
 
 </div>
